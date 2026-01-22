@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body{
+	text-align: center;
+	background-color: rgb(204, 204, 204);
+}
+li{
+	list-style-type: none;
+}
+a{
+	text-decoration-line: none;
+}
+.audioVideo{
+	background-color: rgb(255, 255, 255);
+	padding: 20px;
+	border-radius: 20px;
+}
