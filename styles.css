@@ -9,7 +9,12 @@ li{
 a{
 	text-decoration-line: none;
 }
-.audioVideo{
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding: 20px;
+	border-radius: 20px;
+}
+.player_two{
 	background-color: rgb(255, 255, 255);
 	padding: 20px;
 	border-radius: 20px;
